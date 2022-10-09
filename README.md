@@ -1,2 +1,3 @@
 # BasicTCPCommunication
-A simple echo client using TCP.
+A simple echo client and server using TCP.
+
